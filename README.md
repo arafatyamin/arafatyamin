@@ -14,9 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/yaminarafat11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafat_yamin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arafat_yamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat_yamin" height="30" width="40" /></a>
-<a href="https://fb.com/yamin_arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yamin_arafat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yamin-araafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yamin-araafat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yamin-arafat-71029818a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafat_yamin" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
