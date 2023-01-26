@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arafatyamin](https://github.com/arafatyamin)
 
-- 📫 How to reach me **yaminarafat321@gmail.com**
+- 📫 How to reach me **yamin.arafat01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
