@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arafatyamin](https://github.com/arafatyamin)
+- 👨‍💻 All of my projects are available at [https://github.com/arafatyamin](https://github.com/arafatyamin?tab=repositories)
 
 - 📫 How to reach me **yamin.arafat01@gmail.com**
 
