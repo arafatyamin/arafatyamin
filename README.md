@@ -23,7 +23,7 @@
 
 <br />
 
-  [![yamin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatyamin&theme=gray-white)](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatyamin&theme=blue-green)
+  [![yamin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatyamin&theme=white-gray)](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatyamin&theme=blue-green)
 
 
 
